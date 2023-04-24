@@ -244,6 +244,7 @@ def display_raw_data(df):
 
 
 def main():
+    """main mthod to start the program. It calls all methods in sequence"""
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)

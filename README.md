@@ -10,6 +10,7 @@ Python Project on Bikeshare data
 Bikeshare data on three cities and most common calculations to understand user data
 
 ### Files used
+Data files used but not uploaded to Github
 chicago.csv
 new_york_city.csv
 washington.csv
